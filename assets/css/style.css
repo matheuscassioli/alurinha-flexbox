@@ -209,14 +209,17 @@ body {
 	margin-bottom: 10px;
 }
 
+@media(max-width: 769px) {
+		.container iframe{
+		margin: auto ;
+	}
+}
 @media(min-width: 769px) {
 
 	.container {
 		width: 85%;	
 	}
-	.container iframe{
-		margin: auto;
-	}
+
 
 	.subtitulo {
 		text-align: left;
