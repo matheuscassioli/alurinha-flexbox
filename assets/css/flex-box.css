@@ -8,6 +8,7 @@
 }
 
 /*------principal-------*/
+
 .subtitulo {
     padding-top: 1em;
     padding-left: 1em;
@@ -23,6 +24,7 @@
 
 .conteudoPrincipal-cursos-link {
     width: 23%;
+    list-style-type: none;
 }
 
 /*----video--------*/
