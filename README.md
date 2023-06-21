@@ -1,3 +1,1 @@
-## Projeto utilizando Flex-box desenvolvido na formação Front-end Alura 
-
-### Visualize o projeto utilizando o github pages a sua direita  :satisfied:
+O projeto Alurinha Flex-Box foi uma iniciativa que visava explorar a principal propriedade do CSS, o Flexbox, para criar um layout flexível e responsivo. Focando na simplicidade, o projeto utilizou apenas HTML e CSS para construir uma interface elegante e interativa. A proposta central do Alurinha Flex-Box era demonstrar como o Flexbox pode ser empregado de forma eficiente na criação de layouts modernos, proporcionando flexibilidade e adaptabilidade em diversos dispositivos.
